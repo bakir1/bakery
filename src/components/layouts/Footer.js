@@ -9,65 +9,67 @@ function Footer() {
           <div className="row">
             {/* Column 1 */}
             <div className="col-md-3 col-sm-6">
-              <h4>Lorem lorem lorem</h4>
+              <h4>Contact Us</h4>
               <ul className="list-unstyled">
-                <li>Lorem ipsum </li>
-                <li>Lorem ipsum </li>
-                <li>Lorem ipsum </li>
-                <li>Lorem ipsum </li>
+                <li>Address</li>
+                <li>phone number </li>
+                <li>email</li>
               </ul>
             </div>
             {/* Column 2 */}
             <div className="col-md-3 col-sm-6">
-              <h4>Lorem lorem lorem</h4>
+              <h4>Blog</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Salt</a>
                 </li>
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Sweets</a>
                 </li>
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Something New</a>
                 </li>
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Reviews</a>
                 </li>
               </ul>
             </div>
             {/* Column 3 */}
             <div className="col-md-3 col-sm-6">
-              <h4>Lorem lorem lorem</h4>
+              <h4>Tutorial</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Tutorial Salt</a>
                 </li>
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Tutorial Sweets</a>
                 </li>
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Make Tutorial</a>
                 </li>
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">News</a>
                 </li>
               </ul>
             </div>
             {/* Column 4 */}
             <div className="col-md-3 col-sm-6">
-              <h4>Lorem lorem lorem</h4>
+              <h4>Social Links</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Facebook</a>
                 </li>
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Instagram</a>
                 </li>
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Twitter</a>
                 </li>
                 <li>
-                  <a href="/">Lorem ipsum</a>
+                  <a href="/">Pinterest</a>
+                </li>
+                <li>
+                  <a href="/">BuyMeCoffe</a>
                 </li>
               </ul>
             </div>

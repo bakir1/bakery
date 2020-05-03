@@ -25,7 +25,7 @@ class Login extends Component {
         </div>
         <FacebookLoginButton className="mt-3 mb-3" />
         <div className="text-center">
-          <a class="text-warning bg-dark" href="/sign-up">
+          <a class="text-warning bg-dark" href="/Signup">
             Sign up
           </a>
           <span className="p-2">|</span>

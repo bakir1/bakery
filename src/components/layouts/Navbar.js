@@ -70,12 +70,17 @@ function Navbar() {
               tabindex="-1"
               aria-disabled="true"
             >
-              Receipts(Soon-Disabled)
+              Receipts(Soon)
             </Link>
           </li>
           <li className="nav-item">
             <Link className="nav-link text-black text uppercase" to="/Login">
               Login
+            </Link>
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link text-black text uppercase" to="/Signup">
+              Sign Up
             </Link>
           </li>
         </ul>
