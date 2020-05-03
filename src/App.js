@@ -10,7 +10,7 @@ import { Switch, Route } from "react-router-dom";
 import Home from "./components/pages/Home";
 import Products from "./components/pages/Products";
 import About from "./components/pages/About";
-import Contact from "./components/pages/Contact";
+import Login from "./components/pages/Login";
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
         <Route exact path="/home" component={Home} />
         <Route path="/about" component={About} />
         <Route path="/products" component={Products} />
-        <Route path="/contact" component={Contact} />
+        <Route path="/Login" component={Login} />
       </Switch>
       <Footer />
     </div>

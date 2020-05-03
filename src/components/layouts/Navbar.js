@@ -74,8 +74,8 @@ function Navbar() {
             </Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link text-black text uppercase" to="/contact">
-              Contact Us
+            <Link className="nav-link text-black text uppercase" to="/Login">
+              Login
             </Link>
           </li>
         </ul>

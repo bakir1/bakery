@@ -44,7 +44,7 @@ const Home = () => {
         <Typed
           strings={["bakery", "sweets", "salty"]}
           typeSpeed={40}
-          backSpeed={10}
+          backSpeed={20}
           loop
         />
       </Typography>
