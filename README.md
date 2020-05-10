@@ -10,3 +10,5 @@ transaction he gets a copy of the shopping receipt on his email id. Here we use 
 interface to make the entire frontend. The middle tier or code-behind model is designed for
 fast processing. The online Bakery shopping project brings an entire bakery shop online and
 makes it easy for both buyer and seller.
+
+Registar and Login forms add in the website.
