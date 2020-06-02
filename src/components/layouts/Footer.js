@@ -11,9 +11,9 @@ function Footer() {
             <div className="col-md-3 col-sm-6">
               <h4>Contact Us</h4>
               <ul className="list-unstyled">
-                <li>Address</li>
-                <li>phone number </li>
-                <li>email</li>
+                <li>Address: Sarajevska, 26</li>
+                <li>phone number: +387 61 254 452 </li>
+                <li>email: obshop@gmail.com</li>
               </ul>
             </div>
             {/* Column 2 */}
@@ -21,16 +21,16 @@ function Footer() {
               <h4>Blog</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="/">Salt</a>
+                  <a to="/">Salt</a>
                 </li>
                 <li>
-                  <a href="/">Sweets</a>
+                  <a to="/">Sweets</a>
                 </li>
                 <li>
-                  <a href="/">Something New</a>
+                  <a to="/">Something New</a>
                 </li>
                 <li>
-                  <a href="/">Reviews</a>
+                  <a to="/">Reviews</a>
                 </li>
               </ul>
             </div>
@@ -39,16 +39,16 @@ function Footer() {
               <h4>Tutorial</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="/">Tutorial Salt</a>
+                  <a to="/">Tutorial Salt</a>
                 </li>
                 <li>
-                  <a href="/">Tutorial Sweets</a>
+                  <a to="/">Tutorial Sweets</a>
                 </li>
                 <li>
-                  <a href="/">Make Tutorial</a>
+                  <a to="/">Make Tutorial</a>
                 </li>
                 <li>
-                  <a href="/">News</a>
+                  <a to="/">News</a>
                 </li>
               </ul>
             </div>
@@ -57,7 +57,7 @@ function Footer() {
               <h4>Social Links</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="/">Facebook</a>
+                  <a href="https://www.facebook.com/">Facebook</a>
                 </li>
                 <li>
                   <a href="/">Instagram</a>
